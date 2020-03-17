@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "nodemon"
+  },
+  "name": "zadanie1",
+  "version": "1.0.0",
+  "repository": "https://github.com/denissokolow/js_dependencies_intro1.git",
+  "main": "./src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
